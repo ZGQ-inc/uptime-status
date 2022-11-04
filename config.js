@@ -27,7 +27,7 @@ window.Config = {
     },
     {
       text: '原项目地址',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/imsyy/status'
     },
   ],
 };
