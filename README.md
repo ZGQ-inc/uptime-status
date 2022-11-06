@@ -14,7 +14,9 @@ https://uptime-status-zgqinc.pages.dev/
 
 添加站点监控
 
-右上角菜单栏打开`My Settings`页面获取`Read-Only API Key`
+右上角菜单栏打开`My Settings`页面
+
+最下面获取`Read-Only API Key`
 
 fork此项目
 
