@@ -11,3 +11,11 @@ https://uptime-status-zgqinc.pages.dev/
 ## 快速部署
 
 fork此项目
+
+修改config.js
+
+
+
+## 原项目
+
+https://github.com/imsyy/status
