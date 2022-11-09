@@ -1,10 +1,10 @@
 ## 基于[UptimeRobot](https://uptimerobot.com/)的站点监测网页
 
-### Github pages
+- Github pages
 
 https://zgq-inc.github.io/uptime-status/
 
-### Cloudflare pages
+- Cloudflare pages
 
 https://uptime-status-zgqinc.pages.dev/
 
