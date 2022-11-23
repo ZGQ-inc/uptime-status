@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: '个人主页',
-      url: 'https://zgq-inc.github.io/'
+      url: 'https://domain.zgqinc.gq/'
     },
     {
       text: '项目地址',
